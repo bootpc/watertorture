@@ -1,5 +1,5 @@
 @echo off
-ECHO Water Torture DNS autoritativo. (c) hackingyseguridad 2017. Version 3.
+ECHO Water Torture DNS autoritativo. (c) Antonio Taboada 2017. Version 3.
 :inicio
 set pas=
 set s=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
